@@ -1,5 +1,5 @@
 ---
-title: 使用Quartz4搭建自己的个人网站
+title: 使用Quartz4搭建个人网站
 draft: false
 tags:
 ---
@@ -21,4 +21,4 @@ npx quartz create
 ``` bash
 npx quartz build --serve
 ```
-到这一步基本就搭建完毕了,记下来是[[部署]].
+到这一步基本就搭建完毕了,记下来是[[host.md | 部署]].  
