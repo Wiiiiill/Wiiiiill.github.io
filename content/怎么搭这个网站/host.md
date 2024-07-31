@@ -22,7 +22,7 @@ git remote add upstream https://github.com/jackyzha0/quartz.git
 ``` shell
 npx quartz sync --no-pull
 ```
-成功执行后,以后有更新只需要执行```npx quartz sync```即可.
+成功执行后,以后有更新只需要执行`npx quartz sync`即可.
 
 ## GitHub Pages
 
