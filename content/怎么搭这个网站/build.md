@@ -1,5 +1,5 @@
 ---
-title: 使用Quartz4搭建个人网站
+title: 搭建
 draft: false
 tags:
 ---
