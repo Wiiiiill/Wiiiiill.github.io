@@ -1,0 +1,2 @@
+## 简介
+J·J·艾伯拉姆斯出生于美国纽约市并在洛杉矶长大。他在纽约布朗士区（Bronxville）就读莎拉劳伦斯学院（Sarah Lawrence College）。他的父亲杰洛德·W·艾伯拉姆斯（Gerald W. Abrams）和母亲卡洛·艾伯拉姆斯（Carol Abrams）也都是制作人。 　　他成功创造出美国广播公司（ABC）的电视系列剧《双面女间谍》（Alias）和《迷失》（Lost），并和麦特·瑞维斯（Matt Reeves）合作创造华纳的《大学生费莉希蒂》（Felicity）。 　　2006年7月14日，J·J·艾布斯分别和派拉蒙影业（Paramount Pictures）及华纳兄弟（Warner Bros.）各签下五年和六年合约，价值超过5,500万美元（约人民币4.3亿元）。
