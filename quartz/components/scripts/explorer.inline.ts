@@ -16,6 +16,7 @@ const observer = new IntersectionObserver((entries) => {
 })
 
 function toggleExplorer(this: HTMLElement) {
+  console.log("???")
   this.classList.toggle("collapsed")
   const content = this.nextElementSibling as MaybeHTMLElement
   if (!content) return
